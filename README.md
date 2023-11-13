@@ -1,13 +1,10 @@
 # Conda environment with environment.yml
 
-<!-- [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/tobihol/binder-test/HEAD?filepath=index.ipynb) -->
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tobihol/binder-test/HEAD?labpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/tobihol/binder-test/HEAD?labpath=index.ipynb)
 
 A Binder-compatible repo with an `environment.yml` file.
 
-<!-- alt: https://mybinder.org/v2/gh/tobihol/binder-test/HEAD?labpath=index.ipynb -->
-
-gesis link: https://notebooks.gesis.org/binder/v2/gh/tobihol/binder-test/HEAD?labpath=index.ipynb
+Binder link (same as badge): https://notebooks.gesis.org/binder/v2/gh/tobihol/binder-test/HEAD?labpath=index.ipynb 
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
