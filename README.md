@@ -7,6 +7,8 @@ A Binder-compatible repo with an `environment.yml` file.
 
 <!-- alt: https://mybinder.org/v2/gh/tobihol/binder-test/HEAD?labpath=index.ipynb -->
 
+gesis link: https://notebooks.gesis.org/binder/v2/gh/tobihol/binder-test/HEAD?labpath=index.ipynb
+
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:
