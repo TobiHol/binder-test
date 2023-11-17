@@ -2,7 +2,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 from pathlib import Path
 
 MODEL_DIR = Path("models")
-models = ['gpt2', 'facebook/opt-125m', 'EleutherAI/pythia-70m']
+models = ["gpt2", "facebook/opt-125m", "EleutherAI/pythia-70m"]
 
 def download_model(model_name):
     """Download a Huggingface model and tokenizer to the specified directory"""
